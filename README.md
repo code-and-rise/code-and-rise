@@ -52,7 +52,7 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 - Laravel, Inertia.js, MySQL
 - Transactions, budgeting, analytics, authentication
 
-### <a href="https://github.com/code-and-rise/NetfolioApp">Netfolio</a>
+### <a href="https://netfolio.app">Netfolio</a>
 
 - SaaS portfolio builder platform
 - Laravel, Inertia.js, MySQL
