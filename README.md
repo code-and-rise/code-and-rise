@@ -6,13 +6,9 @@ Junior Full-Stack Developer with a Bachelor’s degree in Computer Engineering, 
 
 I have experience working on both independent and team-based projects, where I developed and deployed production-ready applications.
 
----
-
 ## 🎯 About Me
 
 I enjoy building end-to-end systems and solving real-world problems through software engineering. My main interests include backend architecture, system design, and full-stack application development.
-
----
 
 ## 🚀 Tech Stack
 
@@ -41,8 +37,6 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 - Git / GitHub
 - Render / cPanel deployment
 - Environment configuration (.env)
-
----
 
 ## 🧠 Projects
 
@@ -75,8 +69,6 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 - Full-stack team project
 - Node.js, PostgreSQL
 - Backend development, API design, database modeling
-
----
 
 ## 📫 Contact
 
