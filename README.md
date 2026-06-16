@@ -40,6 +40,12 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 
 ## 🧠 Projects
 
+### <a href="https://github.com/code-and-rise/TaskFlowAPI">TaskFlow API</a>
+
+- REST API for task management
+- Node.js, Express, PostgreSQL
+- Authentication, CRUD, pagination, filtering, analytics
+
 ### <a href="https://github.com/code-and-rise/finance-app">FinanceApp</a>
 
 - Full-stack personal finance management system
@@ -57,12 +63,6 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 - Accommodation booking system
 - React, Node.js, PostgreSQL
 - Search, booking system, role-based access control
-
-### <a href="https://github.com/code-and-rise/TaskFlowAPI">TaskFlow API</a>
-
-- REST API for task management
-- Node.js, Express, PostgreSQL
-- Authentication, CRUD, pagination, filtering, analytics
 
 ### <a href="https://github.com/code-and-rise/BookWormApp">BookWormApp</a>
 
