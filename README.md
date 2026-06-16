@@ -8,12 +8,19 @@ I have experience working on both independent and team-based projects, where I d
 
 ---
 
+## 🎯 About Me
+
+I enjoy building end-to-end systems and solving real-world problems through software engineering. My main interests include backend architecture, system design, and full-stack application development.
+
+---
+
 ## 🚀 Tech Stack
 
 ### Frontend
 
 - React.js (Inertia.js)
 - JavaScript (ES6+)
+- TypeScript
 - HTML, CSS
 
 ### Backend
@@ -21,7 +28,7 @@ I have experience working on both independent and team-based projects, where I d
 - Node.js (Express)
 - Laravel (PHP)
 - REST API development
-- Authentication (JWT, RBAC)
+- Authentication (JWT, role-based access control)
 
 ### Databases
 
@@ -37,66 +44,37 @@ I have experience working on both independent and team-based projects, where I d
 
 ---
 
-## 💼 Experience
-
-### Independent Full-Stack Development (The Hague)
-
-- Built and deployed full-stack applications using React, Node.js, Laravel, MySQL, and PostgreSQL
-- Designed system architecture, backend APIs, and database structures
-- Implemented authentication, authorization, and role-based access control
-- Managed production deployment using Render and cPanel
-
-### Academic Full-Stack Development (University Projects)
-
-- Developed full-stack applications in team environments
-- Built REST APIs and backend systems using Node.js and PostgreSQL
-- Designed relational databases and implemented core application logic
-- Contributed to features such as search, filtering, and booking workflows
-
----
-
 ## 🧠 Projects
 
 ### <a href="https://github.com/code-and-rise/finance-app">FinanceApp</a>
 
-Full-stack personal finance management system  
-Laravel, Inertia.js, MySQL
-
+- Full-stack personal finance management system
+- Laravel, Inertia.js, MySQL
 - Transactions, budgeting, analytics, authentication
 
 ### <a href="https://github.com/code-and-rise/NetfolioApp">Netfolio</a>
 
-SaaS portfolio builder platform  
-Laravel, Inertia.js, MySQL
-
+- SaaS portfolio builder platform
+- Laravel, Inertia.js, MySQL
 - Portfolio builder, content blocks, public sharing, newsletter system
 
 ### <a href="https://github.com/code-and-rise/AccommodoApp">AccommodoApp</a>
 
-Accommodation booking system  
-React, Node.js, PostgreSQL
-
+- Accommodation booking system
+- React, Node.js, PostgreSQL
 - Search, booking system, role-based access control
 
 ### <a href="https://github.com/code-and-rise/TaskFlowAPI">TaskFlow API</a>
 
-REST API for task management  
-Node.js, Express, PostgreSQL
-
+- REST API for task management
+- Node.js, Express, PostgreSQL
 - Authentication, CRUD, pagination, filtering, analytics
 
 ### <a href="https://github.com/code-and-rise/BookWormApp">BookWormApp</a>
 
-Full-stack team project  
-Node.js, PostgreSQL
-
+- Full-stack team project
+- Node.js, PostgreSQL
 - Backend development, API design, database modeling
-
----
-
-## 🎯 About Me
-
-I enjoy building end-to-end systems and solving real-world problems through software engineering. My main interests include backend architecture, system design, and full-stack application development.
 
 ---
 
