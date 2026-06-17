@@ -23,6 +23,7 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 
 - Node.js (Express)
 - Laravel (PHP)
+- Python
 - REST API development
 - Authentication (JWT, role-based access control)
 
