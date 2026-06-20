@@ -33,10 +33,12 @@ I enjoy building end-to-end systems and solving real-world problems through soft
 - MySQL
 - Database design & normalization
 
-### Tools & DevOps
+### DevOps / Cloud / Tools
 
 - Git / GitHub
 - Render / cPanel deployment
+- Docker
+- Cloud platforms (AWS)
 - Environment configuration (.env)
 
 ## 🧠 Projects
