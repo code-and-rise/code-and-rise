@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Filip Mišković
 
-## Junior Full-Stack Developer
+## Junior Software Developer
 
-Junior Full-Stack Developer with a Bachelor’s degree in Computer Engineering, focused on building scalable full-stack web applications using modern technologies. I enjoy working across the entire stack - from system design and database architecture to backend APIs and frontend implementation.
+Junior Software Developer with a Bachelor’s degree in Computer Engineering, focused on building scalable full-stack web applications using modern technologies. I enjoy working across the entire stack - from system design and database architecture to backend APIs and frontend implementation.
 
 I have experience working on both independent and team-based projects, where I developed and deployed production-ready applications.
 
